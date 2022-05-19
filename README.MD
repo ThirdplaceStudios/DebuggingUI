@@ -2,7 +2,9 @@
 
 ## Developed by Damien Davis-Neff ##
 
-DebuggingUI Code © 2022 by Damien Davis-Neff is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"). Old Versions Are Still Subject To CC BY-SA 4.0.
+DebuggingUI Code © 2022 by Damien Davis-Neff is licensed under <a href="http://example.com/](https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Old Versions Are Still Subject To CC BY-SA 4.0.
+
+
 
 This Work Is Incomplete And Will Be Updated
 
