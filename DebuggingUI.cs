@@ -12,7 +12,11 @@ public class DebuggingUI : MonoBehaviour
   Debugging Code via Thirdplace Studios
     Developed by Damien Davis-Neff (damien@thirdplacestudios.ga)
 
+  DebuggingUI Code © 2022 by Damien Davis-Neff is licensed under CC BY-SA 4.0
+    https://creativecommons.org/licenses/by-sa/4.0/
+  This Work Can Be Updated Any Time, Old Versions Are Still Under CC BY-SA 4.0
 
+  This Work Is Incomplete.
 
   */
 
@@ -83,7 +87,7 @@ public class DebuggingUI : MonoBehaviour
     if(!b_Debugging) {t_Player.text = ""; return; }
     if(o_Player == null) return;
 
-    Debug.Log("Player Debugging Active");
+    // INCOMPLETE
   }
 
 }
