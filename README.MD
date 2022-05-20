@@ -18,6 +18,7 @@ This Work Is Incomplete And Will Be Updated
   - Configure Options
   - DO NOT REMOVE CREDITS / LICENSE FROM CS FILE
   - Remove Instructions Comment (Optional)
+  - You will need to fill in the player debug function based on your movement script
 
 ### Contact ###
 
