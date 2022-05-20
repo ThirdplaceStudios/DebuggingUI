@@ -87,7 +87,7 @@ public class DebuggingUI : MonoBehaviour
     if(!b_Debugging) {t_Player.text = ""; return; }
     if(o_Player == null) return;
 
-    // INCOMPLETE
+    // You will need to fill in player information based on your movement script
   }
 
 }
