@@ -20,6 +20,4 @@ This Work Is Incomplete And May Be Updated
 
 ### Contact ###
 
-For business inquires contact: business@thirdplacestudios.ga
-
-For non business inquires contact: contact@thirdplacestudios.ga
+For contact: contact@thirdplacestudios.ga
