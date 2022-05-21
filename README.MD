@@ -8,13 +8,14 @@ This Work Is Incomplete And May Be Updated
 
 ### Instructions ###
 
+A PREFAB IS NOW INCLUDED, AND ALL YOU HAVE TO DO IS FILL IN THE BLANKS.
+
   - Apply Script To Object (Either Empty Or Canvas, I Prefer Canvas To Keep Things In One Spot)
   - Set Player Object (Optional, Required For Player Debugging)
   - Set Player Text (Optional, Required To View Player Debugging)
   - Set FPS Text (Optional, Required To View FPS)
   - Set Frametime Text (Optional, Required To View Frametimes)
   - Configure Options
-  - DO NOT REMOVE CREDITS / LICENSE FROM CS FILE
   - Remove Instructions Comment (Optional)
   - You will need to fill in the player debug function based on your movement script
 
